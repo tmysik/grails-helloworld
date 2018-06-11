@@ -1,0 +1,10 @@
+# Application - grails
+.asscache
+.classpath
+.project
+.slcache
+grails-app/assets/javascripts/bower
+grails-app/assets/javascripts/typescript
+grails-app/assets/stylesheets/bower
+out
+target
